@@ -27,7 +27,7 @@ Na jornada cirúrgica, o pedido médico chega em texto livre: abreviações ("CC
 | Especificação | Confluence | [PRD](https://ytaramelli.atlassian.net/wiki/spaces/COPILOTO/overview) com personas, hipóteses, requisitos, resultados e caminho para produção |
 | Backlog | Jira | 4 épicos (discovery, protótipo, validação, produção) com histórias, tarefas e bugs encontrados na avaliação |
 | Protótipo | Python + LLM | Copiloto com Gemini e Claude, avaliado em duas iterações |
-| Design | Figma | [Tela de revisão do pedido](https://www.figma.com/design/8tIe5wNVz3boqLHi0qIV8A?node-id=6-35) com a paleta da Fin-X |
+| Design | Figma | [Tela de revisão do pedido](https://www.figma.com/design/8tIe5wNVz3boqLHi0qIV8A?node-id=6-35) |
 
 ## Como funciona
 
