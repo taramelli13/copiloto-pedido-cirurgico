@@ -1,0 +1,17 @@
+[
+  {
+    "modelo": "gemini-3.5-flash-lite",
+    "casos_avaliados": 120,
+    "casos_total": 120,
+    "acerto_procedimento": 0.8083,
+    "acerto_cid": 1.0,
+    "acerto_idade": 1.0,
+    "acerto_decisao": 0.9083,
+    "acerto_pendencias_exatas": 0.8417,
+    "pedidos_com_problema_detectados": 1.0,
+    "alarmes_falsos": 0.1803,
+    "tokens_medios": 877,
+    "custo_por_mil_pedidos_usd": 0.64,
+    "segundos_mediana": 12.96
+  }
+]

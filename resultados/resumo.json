@@ -1,0 +1,36 @@
+[
+  {
+    "modelo": "anthropic/claude-haiku-5.5",
+    "casos_avaliados": 120,
+    "casos_total": 120,
+    "busca_trouxe_codigo_certo": 0.975,
+    "acerto_escolha": 0.9145,
+    "acerto_procedimento": 0.8917,
+    "acerto_cid": 1.0,
+    "acerto_idade": 1.0,
+    "acerto_decisao": 0.975,
+    "acerto_pendencias_exatas": 0.95,
+    "pedidos_com_problema_detectados": 1.0,
+    "alarmes_falsos": 0.0492,
+    "tokens_medios": 3337,
+    "custo_por_mil_pedidos_usd": 0.63,
+    "segundos_mediana": 5.55
+  },
+  {
+    "modelo": "anthropic/claude-haiku-5.5 (sem nomes alternativos)",
+    "casos_avaliados": 120,
+    "casos_total": 120,
+    "busca_trouxe_codigo_certo": 0.8667,
+    "acerto_escolha": 0.9423,
+    "acerto_procedimento": 0.8167,
+    "acerto_cid": 1.0,
+    "acerto_idade": 1.0,
+    "acerto_decisao": 0.9417,
+    "acerto_pendencias_exatas": 0.875,
+    "pedidos_com_problema_detectados": 1.0,
+    "alarmes_falsos": 0.1148,
+    "tokens_medios": 3039,
+    "custo_por_mil_pedidos_usd": 0.6,
+    "segundos_mediana": 5.47
+  }
+]
